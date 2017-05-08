@@ -1,0 +1,27 @@
+		FOR IV
+
+tring manipulation is useful in for loops if you want to modify some content in a string.
+
+	word = "Marble"
+	for char in word:
+    	    print char,
+
+The example above iterates through each character in word and, in the end, prints out M a r b l e.
+
+The , character after our print statement means that our next print statement keeps printing on the same line.
+
+
+INSTRUCTIONS:
+
+Let's filter out the letter 'A' from our string.
+
+1. Do the following for each character in the phrase.
+
+2. If char is an 'A' or char is an 'a', print 'X', instead of char. Make sure to include the trailing comma.
+
+3. Otherwise (else:), please print char, with the trailing comma.
+
+
+
+
+

@@ -1,0 +1,26 @@
+		REVIEW: BUILT-IN FUNCTIONS
+
+Perfect! Last but not least, let's review the built-in functions you've learned about in this lesson.
+
+	def is_numeric(num):
+    		return type(num) == int or type(num) == float:
+
+	max(2, 3, 4) # 4
+	min(2, 3, 4) # 2
+
+	abs(2) # 2
+	abs(-2) # 2
+
+
+INSTRUCTIONS:
+
+1. First, def a function called distance_from_zero, with one argument (choose any argument name you like).
+
+2. If the type of the argument is either int or float, the function should return the absolute value of the function input.
+
+3. Otherwise, the function should return "Nope"
+
+
+
+
+

@@ -1,0 +1,13 @@
+		FOR EXERCISE II
+
+To wrap up this lesson, let's create our own for/else statement from scratch.
+
+
+INSTRUCTIONS:
+
+Build your for/else statement in the editor. Execution of the else branch is optional, but your code should print a string of your choice to the editor regardless.
+
+
+
+
+

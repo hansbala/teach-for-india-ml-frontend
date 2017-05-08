@@ -1,0 +1,10 @@
+		CALL AND RESPONSE
+
+After defining a function, it must be called to be implemented. In the previous exercise, spam() in the last line told the program to look for the function called spam and execute the code inside it.
+
+INSTRUCTIONS:
+We've set up a function, square. Call it on the number 10 (by putting 10 between the parentheses of square()) on line 9!
+
+
+
+

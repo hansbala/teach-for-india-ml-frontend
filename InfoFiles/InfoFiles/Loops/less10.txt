@@ -1,0 +1,12 @@
+		FOR II
+
+This kind of loop is useful when you want to do something a certain number of times, such as append something to the end of a list.
+
+
+INSTRUCTIONS:
+
+Create a for loop that prompts the user for a hobby 3 times, then appends each one to hobbies.
+
+
+
+

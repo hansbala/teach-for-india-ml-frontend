@@ -1,0 +1,24 @@
+		FORMATTING II
+
+Remember, we used the % operator to replace the %s placeholders with the variables in parentheses.
+
+	name = "Mike"
+	print "Hello %s" % (name)
+
+You need the same number of %s terms in a string as the number of variables in parentheses:
+
+	print "The %s who %s %s!" % ("Knights", "say", "Ni")
+	# This will print "The Knights who say Ni!"
+
+INSTRUCTIONS:
+
+1. Inside the string, replace the three ___ with %s.
+
+2. After the string but before the three variables, replace the final ___ with a %.
+3. Hit EXECUTE.
+
+4. Answer the questions in the console as they pop up! Type in your answer and hit Enter.
+
+
+
+

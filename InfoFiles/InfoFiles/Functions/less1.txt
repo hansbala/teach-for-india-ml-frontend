@@ -1,0 +1,13 @@
+		FUNCTIONS
+
+You might have considered the situation where you would like to reuse a piece of code, just with a few different values. Instead of rewriting the whole code, it's much cleaner to define a function, which can then be used repeatedly.
+
+INSTRUCTIONS:
+Check out the code in the editor.
+Here you can see we've defined two functions: tax to calculate the tax on a bill, and tip to compute the tip.
+See how much of the code you understand at first glance (we'll explain it all soon). When you're ready, click EXECUTE to continue.
+
+
+
+
+

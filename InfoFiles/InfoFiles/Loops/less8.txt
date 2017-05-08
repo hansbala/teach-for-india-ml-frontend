@@ -1,0 +1,47 @@
+		PRACTISE WHILE-ELSE
+
+Now you should be able to make a game similar to the one in the last exercise. The code from the last exercise is below:
+
+	count = 0
+	while count < 3:
+    	    num = random.randint(1, 6)
+    	    print num
+    	    if num == 5:
+                print "Sorry, you lose!"
+                break
+    	    count += 1
+	else:
+    	    print "You win!"
+
+In this exercise, allow the user to guess what the number is three times.
+
+	guess = int(raw_input("Your guess: "))
+
+Remember, raw_input turns user input into a string, so we use int() to make it a number again.
+
+
+INSTRUCTIONS:
+
+1. Use a while loop to let the user keep guessing so long as guesses_left is greater than zero.
+
+2. Ask the user for their guess, just like the second example above.
+
+3. If they guess correctly, print 'You win!' and break.
+
+4. Decrement guesses_left by one.
+
+5. Use an else: case after your while loop to print 'You lose.'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

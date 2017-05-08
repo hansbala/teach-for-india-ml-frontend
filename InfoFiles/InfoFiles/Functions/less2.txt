@@ -1,0 +1,28 @@
+		FUNCTION JUNCTION
+
+Functions are defined with three components:
+
+1. The header, which includes the def keyword, the name of the function, and any parameters the function requires. Here's an example:
+
+	def hello_world(): // There are no parameters
+
+2. An optional comment that explains what the function does.
+	
+	"""Prints 'Hello World!' to the console."""
+
+3. The body, which describes the procedures the function carries out. The body is indented, just like for conditional statements.
+
+	print "Hello World!"
+
+Here's the full function pieced together:
+
+	def hello_world():
+    	    """Prints 'Hello World!' to the console."""
+    	    print "Hello World!"
+
+INSTRUCTIONS:
+Go ahead and create a function, spam, that prints the string "Eggs!" to the console. Don't forget to include a comment of your own choosing (enclose it in triple quotes!).
+
+
+
+

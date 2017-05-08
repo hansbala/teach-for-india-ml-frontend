@@ -1,0 +1,18 @@
+		WHILE YOU'RE AT IT
+
+Inside a while loop, you can do anything you could do elsewhere, including arithmetic operations.
+
+
+INSTRUCTIONS:
+
+Create a while loop that prints out all the numbers from 1 to 10 squared (1, 4, 9, 16, ... , 100), each on their own line.
+
+1. Fill in the blank space so that our while loop goes from 1 to 10 inclusive.
+
+2. Inside the loop, print the value of num squared. The syntax for squaring a number is num ** 2.
+
+3. Increment num.
+
+
+
+

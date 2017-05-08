@@ -1,0 +1,11 @@
+		SIMPLE ERRORS
+
+A common application of a while loop is to check user input to see if it is valid. For example, if you ask the user to enter y or n and they instead enter 7, then you should re-prompt them for input.
+
+
+INSTRUCTIONS:
+
+Fill in the loop condition so the user will be prompted for a choice over and over while choice does not equal 'y' and choice does not equal 'n'.
+
+
+

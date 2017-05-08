@@ -1,0 +1,26 @@
+		IF
+
+Let's get some practice with if statements. Remember, the syntax looks like this:
+
+	if some_function():
+    	    # block line one
+    	    # block line two
+    	    # et cetera
+
+Looking at the example above, in the event that some_function() returns True, then the indented block of code after it will be executed. In the event that it returns False, then the indented block will be skipped.
+
+Also, make sure you notice the colons at the end of the if statement. We've added them for you, but they're important.
+
+INSTRUCTIONS:
+
+In the editor you'll see two functions. Don't worry about anything unfamiliar. We'll explain soon enough.
+
+1. Replace the underline on line 2 with an expression that returns True.
+
+2. Replace the underline on line 6 with an expression that returns True.
+
+If you do it successfully, then both "Success #1" and "Success #2" are printed.
+
+
+
+

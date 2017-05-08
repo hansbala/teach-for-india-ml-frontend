@@ -1,0 +1,19 @@
+		INSTRUCTIONS
+
+Before we start learning, you need to know a little about how this application works.
+
+On the left (where you are reading this information), is called the Information window. It is where you will receive instructions on how to code.
+
+The window to your right is called the Editor window. It is where you can type your programs and run them to see how your are faring.
+
+To run any program you type in, click on the 'EXECUTE' button on the bottom right hand corner.
+
+If you can't seem to solve a exercise on a given page, feel free to hit the 'SHOW ANSWER' button. We are all here to learn :)
+
+If you want to clear the editor window, you guessed it, just hit the 'RESET' button.
+
+That is all you need to know right now. 
+LETS GET STARTED ON CODING!
+
+CLICK ON THE NEXT BUTTON TO CONTINUE
+

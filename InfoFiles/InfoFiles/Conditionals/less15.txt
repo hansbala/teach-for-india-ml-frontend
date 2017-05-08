@@ -1,0 +1,45 @@
+		EXERCISE
+
+Really great work! Here's what you've learned in this unit:
+
+Comparators:
+
+3 < 4
+5 >= 5
+10 == 10
+12 != 13
+
+Boolean operators:
+
+True or False 
+(3 < 4) and (5 >= 5)
+this() and not that()
+
+Conditional statements:
+
+	if this_might_be_true():
+	    print "This really is true."
+	elif that_might_be_true():
+	    print "That is true."
+	else:
+    	   print "None of the above."
+
+
+Let's get to the grand finale.
+
+
+INSTRUCTIONS:
+
+
+Write an if statement in the_flying_circus(). It must include:
+
+1. if, elif, and else statements;
+2. At least one of and, or, or not;
+3. A comparator (==, !=, <, <=, >, or >=);
+4. Finally, the_flying_circus() must return True when evaluated.
+
+Don't forget to include a : after your if statements!
+
+
+
+

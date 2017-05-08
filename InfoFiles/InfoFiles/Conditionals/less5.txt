@@ -1,0 +1,22 @@
+		AND/OR/NOT
+
+Boolean operators compare statements and result in boolean values. There are three boolean operators:
+
+1. and, which checks if both the statements are True;
+2. or, which checks if at least one of the statements is True;
+3. not, which gives the opposite of the statement.
+
+We'll go through the operators one by one.
+
+INSTRUCTIONS:
+
+Look at the truth table in the editor. Don't worry if you don't completely get it yet—you will by the end of this section!
+
+Click EXECUTE to continue.
+
+
+
+
+
+
+

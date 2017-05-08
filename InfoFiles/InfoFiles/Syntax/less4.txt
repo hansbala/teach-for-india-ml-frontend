@@ -1,0 +1,10 @@
+		REASSIGNMENT
+
+Now you know how to use variables to store values.
+
+Say my_int = 7. You can change the value of a variable by "reassigning" it, like this:
+
+	my_int = 3
+
+INSTRUCTIONS:
+Try it and see! Change the value of my_int from 7 to 3 in the editor

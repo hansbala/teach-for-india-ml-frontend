@@ -1,0 +1,24 @@
+		CONDITION
+
+The condition is the expression that decides whether the loop is going to be executed or not. There are 5 steps to this program:
+
+1. The loop_condition variable is set to True
+
+2. The while loop checks to see if loop_condition is True. It is, so the loop is entered.
+
+3. The print statement is executed.
+
+4. The variable loop_condition is set to False.
+
+5. The while loop again checks to see if loop_condition is True. It is not, so the loop is not executed a second time.
+
+
+INSTRUCTIONS:
+
+See how the loop checks its condition, and when it stops executing? When you think you've got the hang of it, click EXECUTE to continue.
+
+
+
+
+
+

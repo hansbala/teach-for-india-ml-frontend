@@ -1,0 +1,19 @@
+		ALL TOGETHER
+
+Nice work! So far, you've learned about:
+
+--> Variables, which store values for later use
+
+--> Data types, such as numbers and booleans
+
+--> Whitespace, which separates statements
+
+--> Comments, which make your code easier to read
+
+--> Arithmetic operations, including +, -, *, /, **, and %
+
+INSTRUCTIONS:
+1. Write a single-line comment on line 1. It can be anything! (Make sure it starts with #)
+2. Set the variable monty equal to True.
+3. Set another variable python equal to 1.234.
+4. Set a third variable monty_python equal to python squared.

@@ -1,0 +1,25 @@
+		TURNED TABLES
+
+Comparisons result in either True or False, which are booleans as we learned before.
+
+	# Make me true!
+	bool_one = 3 < 5
+
+Let's switch it up: we'll give the boolean, and you'll write the expression, just like the example above.
+
+INSTRUCTIONS:
+
+For each boolean value in the editor, write an expression that evaluates to that value.
+
+Remember, comparators are: ==, !=, >, >=, <, and <=.
+
+Use at least three different ones!
+
+Don't just use True and False! That's cheating!
+
+
+
+
+
+
+

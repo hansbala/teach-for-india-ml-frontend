@@ -1,0 +1,13 @@
+		MIN()
+
+min() then returns the smallest of a given series of arguments.
+
+
+INSTRUCTIONS:
+
+Go ahead and set minimum equal to the min() of any set of integers or floats you'd like.
+
+
+
+
+

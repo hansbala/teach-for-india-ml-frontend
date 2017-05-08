@@ -1,0 +1,19 @@
+		COMPARE II
+
+Excellent! It looks like you're comfortable with basic expressions and comparators.
+
+But what about extreme expressions and comparators?
+
+INSTRUCTIONS:
+
+Let's run through the comparators again with more complex expressions. Set each variable to True or False depending on what you think the result will be.
+
+1. Set bool_one to the result of (20 - 10) > 15
+2. Set bool_two to the result of (10 + 17) == 3**16
+3. Set bool_three to the result of 1**2 <= -1
+4. Set bool_four to the result of 40 * 4 >= -4
+5. Set bool_five to the result of 100 != 10**2
+
+
+
+

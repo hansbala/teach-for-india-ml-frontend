@@ -1,0 +1,22 @@
+		ACCESS BY INDEX
+
+Great work!
+
+Each character in a string is assigned a number. This number is called the index. Check out the diagram in the editor.
+
+	c = "cats"[0]
+	n = "Ryan"[3]
+
+1. In the above example, we create a new variable called c and set it to "c", the character at index zero of the string "cats".
+
+2. Next, we create a new variable called n and set it to "n", the character at index three of the string "Ryan".
+
+In Python, we start counting the index from zero instead of one.
+
+INSTRUCTIONS:
+On line 13, assign the variable fifth_letter equal to the fifth letter of the string "MONTY".
+
+Remember that the fifth letter is not at index 5. Start counting your indices from zero.
+
+
+

@@ -1,0 +1,10 @@
+		UPPER()
+
+Now your string is 100% lower case! A similar method exists to make a string completely upper case.
+
+INSTRUCTIONS:
+
+Call upper() on parrot (after print on line 3) in order to capitalize all the characters in the string!
+
+
+

@@ -1,0 +1,14 @@
+		FOR EXERCISE I
+
+As mentioned, the else block won't run in this case, since break executes when it hits 'tomato'.
+
+
+INSTRUCTIONS:
+
+Modify the code in the editor such that the for loop's else statement is executed.
+
+
+
+
+
+
