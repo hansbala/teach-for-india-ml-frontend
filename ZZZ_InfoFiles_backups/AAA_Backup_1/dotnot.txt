@@ -1,0 +1,19 @@
+		DOT NOTATION
+
+Let's take a closer look at why you use len(string) and str(object), but dot notation (such as "String".upper()) for the rest.
+
+	lion = "roar"
+	len(lion)
+	lion.upper()
+
+Methods that use dot notation only work with strings.
+
+On the other hand, len() and str() can work on other data types.
+
+EXERCISE:
+1. Declare a variable called ministry and set it equal to:
+	
+	ministry = "The Ministry of Silly Walks"
+
+2. Print the len() of the variable ministry.
+3. Also print the variable ministry entirely in UPPERCASE.

@@ -1,0 +1,39 @@
+		STRING METHODS
+
+Great work! Now that we know how to store strings, let's see how we can change them using string methods.
+
+String methods let you perform specific tasks for strings.
+
+We'll focus on four string methods:
+
+1. len()
+2. lower()
+3. upper()
+4. str()
+
+
+I. Let's start with len(), which gets the length (the number of characters) of a string!
+
+EXERCISE 1:
+In the editor try to mimic the following code:
+
+	parrot = "Norwegian Blue"
+	print len(parrot)
+
+The output would be the number of letters in "Norwegian Blue".
+
+II. CONVERTING TO LOWERCASE:
+
+You can use the lower() method to get rid of all the capitalization in your strings. You call lower() like so:
+
+	"Ryan".lower()
+
+which will return "ryan".
+
+EXERCISE:
+1. Type the following code into the editor to see what it returns:
+
+	parrot = "Norwegian BLUE"
+	print parrot.lower()
+
+2. If all goes well, it should print "norwegian blue".

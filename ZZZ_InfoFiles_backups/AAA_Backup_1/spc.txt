@@ -1,0 +1,16 @@
+		WHITESPACE
+
+In Python, whitespace is used to structure code. Whitespace is important, so you have to be careful with how you use it.
+
+Another important concept is that of indentation. If you don't know what indentation is, it is quite simply how you structure your code.
+
+Consider the following snippet of code:
+1	def main():
+2	    print "How are you all doing today?"
+
+We call the spaces that come before the print statement on Line 2 INDENTATION. Without proper indentation, your python program will fail to run. Make sure when declaring loops, functions(discussed in later chapters), or really any nested body to include a tab or at least 4 spaces (these are interchangeable).
+
+If you fail to indent your code you will receive the following error:
+	IndentationError: expected an indented block
+
+Be on the lookout for such errors.

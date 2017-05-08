@@ -1,0 +1,17 @@
+		EXPONENTIATION
+
+All that math can be done on a calculator, so why use Python? Because you can combine math with other data types (e.g. booleans) and commands to create useful programs. Calculators just stick to numbers.
+
+Now let's work with exponents (or powers of a number).
+Consider the following code:
+	
+	eight = 2 ** 3
+
+In the above example, we create a new variable called eight and set it to 8, or the result of 2 to the power to 3 (2^3).
+
+Notice that we use ** instead of * or the multiplication operator.
+
+EXERCISE:
+1. Create a new variable called 'eggs' and use exponents to set eggs equal 100.
+   (Try raising 10 to the power of 2.)
+2. Print eggs to the console.

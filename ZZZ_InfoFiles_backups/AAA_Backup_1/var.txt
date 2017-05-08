@@ -1,0 +1,19 @@
+		VARIABLES
+
+Creating web apps, games, and search engines all involve storing and working with different types of data. They do so using variables. A variable stores a piece of data, and gives it a specific name.
+
+For example:
+	spam = 5
+
+The variable spam now stores the number 5.
+
+EXERCISE:
+Type in the following code and click on the save & run on the bottom right hand corner to see how it works:
+
+	my_age = 17
+	print my_age
+
+EXPLANATION:
+This sets the variable my_age to the value 17. On the following line it prints this value.
+
+Feel free to experiment in the editor window and check what output each program is giving.

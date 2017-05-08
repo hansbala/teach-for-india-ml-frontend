@@ -1,0 +1,11 @@
+		UPPER()
+
+Now your string is 100% lower case! A similar method exists to make a string completely upper case.
+
+EXERCISE:
+1. Type the following code into the editor to see what it returns:
+
+	parrot = "Norwegian BLUE"
+	print parrot.upper()
+
+2. If all goes well, it should print "NORWEGIAN BLUE".

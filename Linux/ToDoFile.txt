@@ -1,0 +1,9 @@
+To Do File
+----------
+
+1. Line Numbers
+2. Auto-Indenting(Hitting the ':' character --> Python)
+3. Checking result of completing exercise
+4. Scroll bar for editor
+5. Font changer
+6. Add more lesson plans.

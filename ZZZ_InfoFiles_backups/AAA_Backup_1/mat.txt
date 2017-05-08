@@ -1,0 +1,12 @@
+		MATH
+
+Great! Now let's do some math. You can add, subtract, multiply, divide numbers like this:
+	
+	addition = 72 + 23
+	subtraction = 108 - 204
+	multiplication = 108 * 0.5
+	division = 108 / 9
+
+EXERCISE 1:
+1. Set the variable count_to equal to the sum of any two big numbers.
+2. Print count_to

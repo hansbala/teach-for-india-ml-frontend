@@ -1,0 +1,25 @@
+		STRINGS
+
+Another useful data type is the string. A string can contain letters, numbers, and symbols.
+
+	name = "Ryan"
+	age = "19"
+	food = "cheese"
+
+1. In the above example, we create a variable name and set it to the string value "Ryan".
+2. We also set age to "19" and food to "cheese".
+
+IMPORTANT: 
+1. Strings need to be within quotes.
+2. Quotes can be either single quotes like:
+	
+	exam = 'Physics'
+
+or double quotes like:
+
+	exam = "Physics"
+
+They are mostly interchangeable but you will see further on that in some cases one is preferred over the other.
+
+EXERCISE:
+1. Create a new variable brian and assign it the string "Hello life!".

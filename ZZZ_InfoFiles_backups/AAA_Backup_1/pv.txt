@@ -1,0 +1,7 @@
+		PRINTING VARIABLES
+
+Great! Now that we've printed strings, let's print variables
+
+EXERCISE:
+1. Declare a variable called the_machine_goes and assign it the string value "Ping!"
+2. Go ahead and print the_machine_goes.
