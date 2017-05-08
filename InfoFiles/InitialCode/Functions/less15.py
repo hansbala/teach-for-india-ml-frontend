@@ -1,0 +1,4 @@
+
+absolute = 
+
+print absolute
